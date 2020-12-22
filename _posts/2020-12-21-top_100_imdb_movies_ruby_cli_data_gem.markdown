@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Top 100 IMDb Movies Ruby CLI Data Gem"
-date:       2020-12-22 01:35:17 +0000
+date:       2020-12-21 20:35:18 -0500
 permalink:  top_100_imdb_movies_ruby_cli_data_gem
 ---
 
