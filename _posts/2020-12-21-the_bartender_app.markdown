@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Bartender App"
-date:       2020-12-22 01:38:13 +0000
+date:       2020-12-21 20:38:14 -0500
 permalink:  the_bartender_app
 ---
 
